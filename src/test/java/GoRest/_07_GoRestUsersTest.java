@@ -14,7 +14,7 @@ import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 
 
-public class GoRestUsersTest {
+public class _07_GoRestUsersTest {
 
     RequestSpecification reqSpec;
     Faker randomuretici = new Faker();
